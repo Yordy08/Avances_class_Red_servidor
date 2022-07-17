@@ -1,0 +1,28 @@
+{
+  "files": {
+    "bin/connect.js": [
+      {
+        "id": "5a34dc6f-f2b6-4221-989d-0d922ccba0a4",
+        "line": 8,
+        "version": 61,
+        "index": 266
+      }
+    ],
+    "bin/middleware.js": [
+      {
+        "id": "846c59b2-9a4a-4e9d-a7b0-c7a39c8f0a9a",
+        "line": 10,
+        "version": 4,
+        "index": 276
+      }
+    ],
+    "middleware.js": [
+      {
+        "id": "a60eede8-d694-4971-ad7b-957dfdaefcd6",
+        "line": 10,
+        "version": 1,
+        "index": 273
+      }
+    ]
+  }
+}
